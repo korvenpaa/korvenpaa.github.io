@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fanikauppa/static/css/main.f0ccd268.chunk.css",
+    "main.js": "/fanikauppa/static/js/main.291a074d.chunk.js",
+    "main.js.map": "/fanikauppa/static/js/main.291a074d.chunk.js.map",
+    "runtime-main.js": "/fanikauppa/static/js/runtime-main.5c1e0979.js",
+    "runtime-main.js.map": "/fanikauppa/static/js/runtime-main.5c1e0979.js.map",
+    "static/js/2.86fd857c.chunk.js": "/fanikauppa/static/js/2.86fd857c.chunk.js",
+    "static/js/2.86fd857c.chunk.js.map": "/fanikauppa/static/js/2.86fd857c.chunk.js.map",
+    "index.html": "/fanikauppa/index.html",
+    "static/css/main.f0ccd268.chunk.css.map": "/fanikauppa/static/css/main.f0ccd268.chunk.css.map",
+    "static/js/2.86fd857c.chunk.js.LICENSE.txt": "/fanikauppa/static/js/2.86fd857c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fanikauppa/static/media/background.9c615824.jpg",
+    "static/media/bowl.ed2962e0.jpg": "/fanikauppa/static/media/bowl.ed2962e0.jpg",
+    "static/media/brush.f44cef04.jpg": "/fanikauppa/static/media/brush.f44cef04.jpg",
+    "static/media/dogtoy.ec3c2fcf.jpg": "/fanikauppa/static/media/dogtoy.ec3c2fcf.jpg",
+    "static/media/food.42bd248f.jpg": "/fanikauppa/static/media/food.42bd248f.jpg",
+    "static/media/harness.f54a754b.jpg": "/fanikauppa/static/media/harness.f54a754b.jpg",
+    "static/media/treat.1d4ac387.jpg": "/fanikauppa/static/media/treat.1d4ac387.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c1e0979.js",
+    "static/js/2.86fd857c.chunk.js",
+    "static/css/main.f0ccd268.chunk.css",
+    "static/js/main.291a074d.chunk.js"
+  ]
+}
